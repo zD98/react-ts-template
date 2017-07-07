@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/hello.css"],"names":[],"mappings":"AAAA,IACI,aAAe","file":"static/css/app.82e50b07a6fb69d15c5b5f9841eab6f3.css","sourcesContent":["div {\n    margin: 0 auto;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/components/hello.css"],"sourceRoot":""}
