@@ -1,5 +1,5 @@
 import * as React from "react";
-import './hello.css';
+import './hello.less';
 // var style = require('./hello.css');
 
 
