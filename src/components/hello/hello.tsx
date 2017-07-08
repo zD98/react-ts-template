@@ -1,7 +1,6 @@
-import * as React from "react";
+import * as React from 'react';
 import './hello.less';
 // var style = require('./hello.css');
-
 
 interface HelloProps {
   name: string;

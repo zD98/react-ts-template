@@ -42,6 +42,15 @@ module.exports = {
   module: {
     rules: [
       {
+        test: /\.tsx?$/,
+        loader: 'tslint-loader',
+        enforce: 'pre',
+        include: [resolve('src')],
+        options: {
+          // formatter: require('eslint-friendly-formatter')
+        }
+      },
+      {
         test: /\.(tsx|ts)$/,
         loader: "awesome-typescript-loader"
       },
